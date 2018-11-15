@@ -5,13 +5,15 @@ This will display like flipkart slider animated progress view vertical
 
 ****Only applicable on UITableview
 
+video:
 
 
 **usage :
 
 Simply drag and Drop file 'AMOrderTrackerForUITableView.swift'
-var baseView = AMOrderTrackerForUITableView() // create obj
-baseView.setView(tblView: self.tblView, selected_indexForAnimation : 3) // set on table view
+
+    var baseView = AMOrderTrackerForUITableView() // create obj
+    baseView.setView(tblView: self.tblView, selected_indexForAnimation : 3) // set on table view
 
 That's it.
 
