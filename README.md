@@ -6,8 +6,7 @@ This will display like flipkart slider animated progress view vertical
 ****Only applicable on UITableview
 
 video:
-<p><video id="scenario-1" class="video-js vjs-default-skin vjs-big-play-centered" controls
- preload="auto" width="640" height="480" data-setup='{}'>
+<p><video>
   <source src="https://vimeo.com/user91776928/review/301060550/2d3f9359cf" type='video/mp4'>
 </video></p>
 
