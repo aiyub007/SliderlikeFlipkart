@@ -6,6 +6,7 @@ This will display like flipkart slider animated progress view vertical
 ****Only applicable on UITableview
 
 video:
+https://vimeo.com/user91776928/review/301060550/2d3f9359cf
 <p><video>
   <source src="https://vimeo.com/user91776928/review/301060550/2d3f9359cf" type='video/mp4'>
 </video></p>
